@@ -30,7 +30,7 @@ This project showcases a Tableau dashboard I am responsible for updating and mai
 ## Visual Sample
 Below is an example of the updated Tableau dashboard:
 
-![Sample Dashboard](Tableau%20Github.png)
+![Sample Dashboard](Tableau Github.JPG)
 
 ---
 
